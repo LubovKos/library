@@ -36,20 +36,5 @@ int main() {
         std::cout << "Program terminated with unknown error\n";
         return 1;
     }
-    // Book book = Book("22", "3", "f", 2000, "dd", "2w", 3);
-    // BookRepository rep = BookRepository("library.db");
-    // rep.save(book);
-    // rep.showAll();
-    // rep.update("title", "22", "3","11");
-    // rep.showAll();
-    // Book book2 = Book("ddd", "fwef", "we", 2000, "ee", "wff", 13);
-    // rep.save(book2);
-    // rep.showAll();
-    // rep.filter("genre", "down");
-    // rep.find("author", "3");
-    // rep.showAll();
-    // rep.exportData("json");
-    // return 0;
     return 0;
 }
-// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
