@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Exmo",
+    "Address": "Moscow, Zorge St., 1",
+    "Phone": "+7 (495) 411-68-86",
+    "Mail": "info@eksmo.ru"
+  },
+  {
+    "Title": "ACT",
+    "Address": "Moscow, Presnenskaya Embankment, 6, bldg. 2",
+    "Phone": "+7 (495) 232-63-33",
+    "Mail": "info@ast.ru"
+  },
+  {
+    "Title": "Drofa",
+    "Address": "Moscow, Ogorodny Passage, 5",
+    "Phone": "+7 (495) 795-05-50",
+    "Mail": "info@drofa.ru"
+  },
+  {
+    "Title": "Prosveshenie",
+    "Address": "Moscow, 3rd Maryina Roshcha Passage, 41",
+    "Phone": "+7 (495) 789-30-40",
+    "Mail": "info@prosv.ru"
+  },
+  {
+    "Title": "Rosman",
+    "Address": "Moscow, Oktyabrskaya St., 4, bldg. 2",
+    "Phone": "+7 (495) 777-48-00",
+    "Mail": "info@rosman.ru"
+  },
+  {
+    "Title": "Azbuka",
+    "Address": "Saint Petersburg, Nevsky Prospect, 84",
+    "Phone": "+7 (812) 336-14-63",
+    "Mail": "info@azbooka.ru"
+  },
+  {
+    "Title": "MIF",
+    "Address": "Moscow, Shabolovka St., 34, bldg. 3",
+    "Phone": "+7 (495) 120-11-11",
+    "Mail": "info@mann-ivanov-ferber.ru"
+  },
+  {
+    "Title": "Alp",
+    "Address": "Moscow, 4th Magistralnaya St., 5, bldg. 1",
+    "Phone": "+7 (495) 980-53-54",
+    "Mail": "info@alpina.ru"
+  },
+  {
+    "Title": "Corpus",
+    "Address": "Moscow, Pravdy St., 1",
+    "Phone": "+7 (495) 775-31-31",
+    "Mail": "info@corpus.ru"
+  },
+  {
+    "Title": "Ad Marginem",
+    "Address": "Moscow, 1905 Goda St., 7",
+    "Phone": "+7 (495) 229-58-06",
+    "Mail": "info@admarginem.ru"
+  }
+]

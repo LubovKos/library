@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 1,
+        "address": "Moscow, Zorge St., 1",
+        "mail": "info@eksmo.ru",
+        "phone": "+7 (495) 411-68-86",
+        "title": "Exmo"
+    },
+    {
+        "ID": 2,
+        "address": "Moscow, Presnenskaya Embankment, 6, bldg. 2",
+        "mail": "info@ast.ru",
+        "phone": "+7 (495) 232-63-33",
+        "title": "ACT"
+    },
+    {
+        "ID": 4,
+        "address": "Moscow, 3rd Maryina Roshcha Passage, 41",
+        "mail": "info@prosv.ru",
+        "phone": "+7 (495) 789-30-40",
+        "title": "Prosveshenie"
+    },
+    {
+        "ID": 5,
+        "address": "Moscow, Oktyabrskaya St., 4, bldg. 2",
+        "mail": "info@rosman.ru",
+        "phone": "+7 (495) 777-48-00",
+        "title": "Rosman"
+    },
+    {
+        "ID": 6,
+        "address": "Saint Petersburg, Nevsky Prospect, 84",
+        "mail": "info@azbooka.ru",
+        "phone": "+7 (812) 336-14-63",
+        "title": "Azbuka"
+    },
+    {
+        "ID": 7,
+        "address": "Moscow, Shabolovka St., 34, bldg. 3",
+        "mail": "info@mann-ivanov-ferber.ru",
+        "phone": "+7 (495) 120-11-11",
+        "title": "MIF"
+    },
+    {
+        "ID": 8,
+        "address": "Moscow, 4th Magistralnaya St., 5, bldg. 1",
+        "mail": "info@alpina.ru",
+        "phone": "+7 (495) 980-53-54",
+        "title": "Alp"
+    },
+    {
+        "ID": 9,
+        "address": "Moscow, Pravdy St., 1",
+        "mail": "info@corpus.ru",
+        "phone": "+7 (495) 775-31-31",
+        "title": "Corpus"
+    },
+    {
+        "ID": 10,
+        "address": "Moscow, 1905 Goda St., 7",
+        "mail": "info@admarginem.ru",
+        "phone": "+7 (495) 229-58-06",
+        "title": "Ad Marginem"
+    },
+    {
+        "ID": 11,
+        "address": "rrrr",
+        "mail": "mal@mail.ru",
+        "phone": "+783483802801",
+        "title": "rr"
+    }
+]

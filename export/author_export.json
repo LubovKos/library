@@ -1,0 +1,32 @@
+[
+    {
+        "biography": "Great Russian writer, thinker, philosopher, and publicist. Author of novels 'Crime and Punishment', 'The Idiot', and 'The Brothers Karamazov'.",
+        "date_of_birth": "11.11.1821",
+        "date_of_death": "09.02.1881",
+        "full_name": "Fyodor Mikhailovich Dostoevsky"
+    },
+    {
+        "biography": "American science fiction writer, known for the dystopia 'Fahrenheit 451' and the short story collection 'The Martian Chronicles'.",
+        "date_of_birth": "22.08.1920",
+        "date_of_death": "05.06.2012",
+        "full_name": "Ray Douglas Bradbury"
+    },
+    {
+        "biography": "British writer, author of the Harry Potter novel series. One of the most widely read and commercially successful authors in the world.",
+        "date_of_birth": "31.07.1965",
+        "date_of_death": "",
+        "full_name": "Joanne Rowling"
+    },
+    {
+        "biography": "Soviet writer, playwright, and theater director. Author of novels 'The Master and Margarita', 'The White Guard', and the play 'Days of the Turbins'.",
+        "date_of_birth": "15.05.1891",
+        "date_of_death": "10.03.1940",
+        "full_name": "Mikhail Afanasyevich Bulgakov"
+    },
+    {
+        "biography": "English theoretical physicist, cosmologist, and author of popular science books, including 'A Brief History of Time'. Studied black holes and the Big Bang theory.",
+        "date_of_birth": "08.01.1942",
+        "date_of_death": "14.03.2018",
+        "full_name": "Stephen William Hawking"
+    }
+]

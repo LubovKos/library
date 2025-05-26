@@ -1,0 +1,47 @@
+[
+    {
+        "ID": 1,
+        "author_id": 3,
+        "genre_id": 1,
+        "pages": 608,
+        "publisher_id": 2,
+        "title": "Crime and Punishment",
+        "year": 1866
+    },
+    {
+        "ID": 2,
+        "author_id": 2,
+        "genre_id": 2,
+        "pages": 256,
+        "publisher_id": 1,
+        "title": "Fahrenheit 451",
+        "year": 200
+    },
+    {
+        "ID": 4,
+        "author_id": 2,
+        "genre_id": 5,
+        "pages": 480,
+        "publisher_id": 2,
+        "title": "The Master and Margarita",
+        "year": 1967
+    },
+    {
+        "ID": 5,
+        "author_id": 4,
+        "genre_id": 6,
+        "pages": 256,
+        "publisher_id": 3,
+        "title": "A Brief History of Time",
+        "year": 1988
+    },
+    {
+        "ID": 6,
+        "author_id": 33,
+        "genre_id": 33,
+        "pages": 33,
+        "publisher_id": 33,
+        "title": "33",
+        "year": 33
+    }
+]

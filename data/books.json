@@ -1,0 +1,47 @@
+[
+  {
+    "Title": "Crime and Punishment",
+    "Author": 3,
+    "Genre": 1,
+    "Year": 1866,
+    "Pages": 608,
+    "Description": "The story of former student Rodion Raskolnikov, who commits a murder and struggles to justify his actions.",
+    "Publisher": 2
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": 2,
+    "Genre": 2,
+    "Year": 1953,
+    "Pages": 256,
+    "Description": "A future world where firefighters burn books, and one of them begins to question the system's validity.",
+    "Publisher": 1
+  },
+  {
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Author": 3,
+    "Genre": 4,
+    "Year": 1997,
+    "Pages": 432,
+    "Description": "The first book about the adventures of young wizard Harry Potter at Hogwarts School.",
+    "Publisher": 4
+  },
+  {
+    "Title": "The Master and Margarita",
+    "Author": 2,
+    "Genre": 5,
+    "Year": 1967,
+    "Pages": 480,
+    "Description": "A fantastical story about the devil's visit to 1930s Moscow and the events that follow.",
+    "Publisher": 2
+  },
+  {
+    "Title": "A Brief History of Time",
+    "Author": 4,
+    "Genre": 6,
+    "Year": 1988,
+    "Pages": 256,
+    "Description": "A popular exposition of cosmological theories, including the Big Bang and black holes.",
+    "Publisher": 3
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Novel",
+    "Description": "A long narrative work describing the story of human relationships and experiences"
+  },
+  {
+    "Name": "Fantasy",
+    "Description": "A genre with elements of magic, mythology, and fictional worlds"
+  },
+  {
+    "Name": "Science Fiction",
+    "Description": "Works based on scientific or technological concepts of the future"
+  },
+  {
+    "Name": "Detective",
+    "Description": "A genre focused on investigating crimes and solving mysteries"
+  },
+  {
+    "Name": "Thriller",
+    "Description": "Tense works that evoke feelings of anxiety and anticipation"
+  },
+  {
+    "Name": "Historical Novel",
+    "Description": "Fictional works based on historical events"
+  },
+  {
+    "Name": "Horror",
+    "Description": "A genre intended to evoke fear and anxiety in the reader"
+  },
+  {
+    "Name": "Biography",
+    "Description": "Non-fiction works describing the lives of real people"
+  },
+  {
+    "Name": "Poetry",
+    "Description": "A literary form using rhythm and imagery of language"
+  },
+  {
+    "Name": "Drama",
+    "Description": "Works focused on emotional and conflictual situations"
+  },
+  {
+    "Name": "Adventure",
+    "Description": "A genre with dynamic plots and extreme situations"
+  },
+  {
+    "Name": "Dystopia",
+    "Description": "Works depicting a bleak future society"
+  },
+  {
+    "Name": "Classics",
+    "Description": "Works recognized as outstanding and of enduring value"
+  },
+  {
+    "Name": "Humor",
+    "Description": "Works intended to evoke laughter and entertain the reader"
+  },
+  {
+    "Name": "Psychological Novel",
+    "Description": "Works with deep analysis of the inner world of characters"
+  }
+]
