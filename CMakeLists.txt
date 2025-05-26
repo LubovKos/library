@@ -3,21 +3,17 @@ project(library)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-# Интеграция с vcpkg
 set(CMAKE_TOOLCHAIN_FILE "C:/Users/kos22/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "Vcpkg toolchain file")
 
-# Находим SQLiteCpp
+
 find_package(SQLiteCpp CONFIG REQUIRED)
 message(STATUS "SQLiteCpp include dirs: ${SQLiteCpp_INCLUDE_DIRS}")
 message(STATUS "SQLiteCpp libraries: ${SQLiteCpp_LIBRARIES}")
 
-# Находим nlohmann/json
-find_package(nlohmann_json CONFIG REQUIRED)
 
+find_package(nlohmann_json CONFIG REQUIRED)
 find_package(spdlog CONFIG REQUIRED)
 
-# Создаем исполняемый файл
 add_executable(library main.cpp
         library.cpp
         joiner.cpp
